@@ -24,9 +24,7 @@ mensagemPessoal (“Lucas”, “Gerente”, 10) mensagemPessoal (“Irineu”, 
 
 /*
 
-EXEMPLO 4-
-
-
+EXEMPLO 4
 fuction somarDevolver(numero1, numero2, numero3) {
             let resultado = numero1 + numero2 + numero3
             return resultado
@@ -41,7 +39,6 @@ alert(soma2)
 */
 
 /*
-
 EXEMPLO 5
 fuction parOuImpar(numero) {
             if (numero % 2 === 0) {
@@ -60,7 +57,6 @@ alert(` O número 15 é ${resultado2}`)
 
 /*
 EXEMPLO 6- 
-
 document.querySelector("button").addEventListener("click", function() {
             alert("Clicou no botão")
 })
@@ -75,14 +71,9 @@ document.querySelector("button").addEventListener("click", () => {
 */
 
 /*
-
 EXEMPLO 8
-
 let somar = (valor1, valor2) => valor1 + valor2
-
-
 let resultadoSoma = somar(20, 30)
-
 alert(resultadoSoma)
 /*
 
